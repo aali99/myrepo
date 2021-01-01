@@ -94,6 +94,7 @@ mkdir ~/.gf
 cp "$toolsDir"/Gf-Patterns/*.json ~/.gf
 
 pip3 install telegram-send
+apt install screen
 
 echo "[*] SETUP FINISHED."
 
